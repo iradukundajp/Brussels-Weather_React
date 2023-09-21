@@ -1,0 +1,7 @@
+.weather-container {
+  margin: 0;
+  background-color: hsl(201, 54%, 59%);
+  color: hsl(200, 100%, 10%);
+  font-family: sans-serif;
+  width: 700px;
+}

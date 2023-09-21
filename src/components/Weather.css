@@ -1,0 +1,31 @@
+.day {
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 0;
+  padding-bottom: 10px;
+  background-image: url("https://img.freepik.com/free-vector/dark-clouds-with-rainfall-thunder-flash-background_1017-32181.jpg?size=626&ext=jpg");
+  color: white;
+}
+
+.hourly-temperature {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  border-bottom: 1px solid hsl(200, 100%, 10%);
+  font-weight: bold;
+}
+
+.hour {
+  flex: 1;
+  text-align: center;
+  font-size: 18px;
+}
+
+.temperature {
+  flex: 1;
+  text-align: center;
+  font-size: 15px;
+}
